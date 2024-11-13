@@ -1,4 +1,4 @@
-// package in.ac.adit.pwj.miniproject.quiz;
+package in.ac.adit.pwj.miniproject.quiz;
 
 import java.io.*;
 import java.util.*;
